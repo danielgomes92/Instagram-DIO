@@ -19,6 +19,7 @@ Outros recursos são usados em Javascript para aprimorar cada vez mais o seu sit
 <h3>Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 Obs.: Não sou nenhum profissional com ensino superior!
+  
 Apenas sou mais um aluno que recebeu através de amigos/facebook oportunidades para aprender
 e ingressar na área de desenvolvimento.
 
