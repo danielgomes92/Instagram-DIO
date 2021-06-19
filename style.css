@@ -120,12 +120,16 @@ body {
 	padding: 1.3rem 0;
 }
 
+.get-app {
+	margin-top: 1rem;
+}
+
 .download {
 	display: flex;
 	width: 100%;
 	justify-content: space-evenly;
 	align-items: center;
-	padding: 1rem;
+	padding-top: 1.2rem;
 }
 
 .app-download {
@@ -142,7 +146,7 @@ body {
 	background-image: url(./img/disponivel-apple-app.png);
 }
 
-/*media queries*/
+/*parte responsiva - media queries*/
 
 
 @media (max-width:1024px) {
