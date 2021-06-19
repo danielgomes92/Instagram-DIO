@@ -29,9 +29,9 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	width: 68%;
+	width: 50%;
 }
-/*altura de posicionamento da tela vertical*/
+/*tamanho do iphone na vertical*/
 .instagram-phone img {
 	height: 50rem;
 }
