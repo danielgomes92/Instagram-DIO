@@ -74,6 +74,7 @@ body {
 /*Logo do instagram acima da foto*/
 .instagram-logo {
 	height: 3rem;
+	margin-bottom: 0.8rem;
 }
 /*Foto de perfil*/
 .profile-photo {
@@ -93,7 +94,7 @@ body {
 	color: #ffffff;
 	padding: 8px;
 	border-radius: 4px;
-	margin-top: 2rem;
+	margin-top: 1.5rem;
 }
 
 .instagram-logout {
