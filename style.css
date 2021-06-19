@@ -16,7 +16,7 @@ body {
 	display: flex;
 	justify-content: center;
 }
-
+/*Altura dos itens adicionados*/
 .instagram-wrapper {
 	display: flex;
 	align-items: center;
@@ -44,8 +44,8 @@ body {
 	width: 32%;
 	min-height: 30rem;
 }
-
-.group {
+/*largura da caixa com conteúdos de login e foto perfil*/
+.group1 {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -53,9 +53,21 @@ body {
 	background-color: #ffffff;
 	width: 100%;
 	padding: 1.3rem 0;
-	border: 1px solid lightgray; 
+	border: 1px solid lightgray;
+	margin-bottom: 0.3rem; 
 }
 
+.group2 {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-direction: column;
+	background-color: #ffffff;
+	width: 100%;
+	padding: 1.5rem 0;
+	border: 1px solid lightgray; 
+}
+?/*altura da caixa com conteúdos de login e foto perfil*/
 .group:nth-child(1) {
 	min-height: 20rem;
 }
@@ -81,16 +93,17 @@ body {
 	color: #ffffff;
 	padding: 8px;
 	border-radius: 4px;
-	margin-top: 1rem;
+	margin-top: 2rem;
 }
 
 .instagram-logout {
 	color: #0095f6;
-	margin-bottom: 0rem;
+	margin-top: 0.5rem;
 }
 /*Parte do Não é você? cinza*/
 .not-account {
 	color: rgb(160, 160, 160);
+	
 }
 /*Link Alternar conta ou Inscreva-se*/
 .link-blue {
